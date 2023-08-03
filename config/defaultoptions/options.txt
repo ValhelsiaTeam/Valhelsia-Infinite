@@ -8,7 +8,7 @@ guiScale:3
 maxFps:120
 mipmapLevels:0
 resourcePacks:["vanilla","mod_resources","spelunkery:better_vanilla_gems","spelunkery:unlit_redstone_ores","Supplementaries Generated Pack","file/Valhelsia UI.zip","file/xali\u0027s Bushy Leaves v3.4.1.zip"]
-incompatibleResourcePacks:[]
+incompatibleResourcePacks:["file/Valhelsia UI.zip"]
 soundCategory_master:0.5
 soundCategory_music:0.25
 soundCategory_record:1.0
