@@ -30,6 +30,19 @@ customization {
 }
 
 customization {
+  identifier = %id=376322%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376322%
+  orientation = mid-centered
+  x = -124
+  action = movebutton
+  y = 11
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   orientation = mid-centered
   x = -100
@@ -71,6 +84,11 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376346%
   action = hidebutton
 }
 
@@ -146,7 +164,7 @@ customization {
   orientation = mid-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
-  buttonaction = openlink;https://www.bisecthosting.com/Valhelsia%btnaction_splitter_fm%
+  buttonaction = openlink;https://www.bisecthosting.com/Valhelsia?r=valhelsia+infinite+modpack%btnaction_splitter_fm%
   x = 2
   width = 98
   action = addbutton
@@ -154,13 +172,5 @@ customization {
   y = 12
   label = Rent a Server
   height = 20
-}
-
-customization {
-  identifier = %id=376322%
-  orientation = mid-centered
-  x = -124
-  action = movebutton
-  y = 12
 }
 
